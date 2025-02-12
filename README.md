@@ -1,0 +1,1 @@
+# satellite-patch-checker
